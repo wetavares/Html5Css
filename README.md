@@ -10,3 +10,5 @@ onde foi desenvolvido uma pagina semelhante ao de login do Instagram
 :large_orange_diamond: https://www.pexels.com/pt-br/procurar/time/ (imagens e videos gratuitos profissionais)
 
 :large_orange_diamond: https://html-color-codes.info/ (site paletas de cores para html)
+
+:large_orange_diamond: https://iconape.com/ccb-congregacao-crista-logo-logo-icon-svg-png.html (site de icones)
